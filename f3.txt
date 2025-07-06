@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added for merging
+=======
+test3
+>>>>>>> qa
